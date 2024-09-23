@@ -10,6 +10,7 @@ setup(
     entry_points={
         'console_scripts': [
             'square-images=quinn_image_processing.script:main',  # Create a command-line tool
+            'overlay-images=quinn_image_processing.overlayScript:main',  # Create a command-line tool
         ],
     },
     description='A simple Python package for image processing.',
