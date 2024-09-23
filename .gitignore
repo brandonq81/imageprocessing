@@ -1,0 +1,8 @@
+# Ignore distribution folder
+dist/
+
+# Ignore egg-info folder
+quinn_image_processing.egg-info/
+
+# Ignore tokens
+token.txt
