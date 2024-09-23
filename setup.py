@@ -15,7 +15,7 @@ setup(
     description='A simple Python package for image processing.',
     long_description=open('README.md').read(),  # Include your README.md as the description
     long_description_content_type='text/markdown',  # Set markdown type for PyPI
-    url='https://github.com/yourusername/my_package',  # Project URL (e.g., GitHub)
+    url='https://github.com/brandonq81/imageprocessing',  # Project URL (e.g., GitHub)
     author='Brandon Quinn',
     author_email='brandonq81@gmail.com',
     license='MIT',  # License type
