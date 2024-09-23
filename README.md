@@ -14,3 +14,10 @@ You can install this package using `pip`:
 
 ```bash
 pip install quinn_image_processing
+
+Update the PATH variable as needed, based on the warning given by pip:
+WARNING: The scripts overlay-images.exe and square-images.exe are installed in 'SCRIPTLOCATION' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+$env:PATH += ';SCRIPTLOCATION'
+

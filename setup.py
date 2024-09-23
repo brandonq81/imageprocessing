@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='quinn_image_processing',  # The name of your package on PyPI
-    version='1.1.0',    # Package version
+    version='1.2.0',    # Package version
     packages=find_packages(),  # Automatically find packages in the project
     install_requires=[
         'Pillow>=10.0.0',  # Example dependency
