@@ -6,3 +6,5 @@ quinn_image_processing.egg-info/
 
 # Ignore tokens
 token.txt
+
+__pycache__
